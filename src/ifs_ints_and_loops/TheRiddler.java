@@ -87,7 +87,7 @@ public class TheRiddler {
 		}
 		if (score == 5) {
 			JOptionPane.showMessageDialog(null,
-					"You have conqured this riddle test you asre the grand champion riddler !!!!!!!!!!!!!!!!!");
+					"You have conqured this riddle test you are the grand champion riddler !!!!!!!!!!!!!!!!!");
 
 			// 5. Otherwise, say "wrong" and tell them the answer
 			// 6. Add some more riddles
