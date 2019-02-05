@@ -13,6 +13,7 @@ public class myages {
 				System.out.println("I will be " + i + " in " + (2008 + i) + ".");
 			} else {
 				System.out.println("I was " + i + " in " + (2008 + i) + ".");
+			
 
 			}
 			
