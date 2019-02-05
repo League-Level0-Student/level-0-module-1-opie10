@@ -43,7 +43,7 @@ public class XGeeks {
 			JOptionPane.showMessageDialog(null, misha);
 			
 		}else {
-			JOptionPane.showMessageDialog(null, "You  are a normal person who does not know a thing and you have no powers because you are crazy");
+			JOptionPane.showMessageDialog(null, "You  are a normal person who does not know a thing\n You have no powers because you are crazy");
 				
 			
 		}
